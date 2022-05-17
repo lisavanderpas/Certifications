@@ -10,10 +10,8 @@ Contributing Authors: Dr. George Athwal, Dr. Jim Johnson
 
 # Custom Loading Apparatus and Digital Micromotion Tracking System
 
-<img src="MicromotionView.pdf" />
+<img src="MicromotionView.png" />
 
 Figure 1: The plot above shows the 3D loading apparatus and an image acquired using one of the (3) high-resolution digital cameras, focused on the bone-implant interface. 
 
-## Other Abstracts by HULC
 
-- [Evaluating the Effacacy of Measurement Method - In-Vitro](https://dcunni9.github.io/CORS_Micromotion2022/)
