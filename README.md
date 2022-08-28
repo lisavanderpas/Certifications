@@ -9,7 +9,7 @@ Mental Health First Aid
 
 <img src="Mental Health First Aid.png" />
 
- ## Description
+## Description
 
 Trauma Informed
 
