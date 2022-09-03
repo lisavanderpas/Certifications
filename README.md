@@ -1,4 +1,4 @@
-# Certifications
+## Certifications
 
 # Mental Health First Aid
 
@@ -12,7 +12,7 @@
 
 <img src="Palliative Care.png" />
 
-# First Aid
+# First Aid & CPR
 
 <img src="First AID.png" />
 
