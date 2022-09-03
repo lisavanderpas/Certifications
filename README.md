@@ -1,42 +1,21 @@
-# Development of an Automated Test Bed to Assess the Performance of Shoulder Implants
+# Certifications
 
-
-## Description
-
-Mental Health First Aid
-
-# Custom Loading Apparatus and Digital Micromotion Tracking System
+# Mental Health First Aid
 
 <img src="Mental Health First Aid.png" />
 
-## Description
-
-Trauma Informed
-
-# Custom Loading Apparatus and Digital Micromotion Tracking System
+# Trauma Informed
 
 <img src="CTRI.png" />
 
-## Description
-
-Palliative care
-
-# Custom Loading Apparatus and Digital Micromotion Tracking System
+# Palliative care
 
 <img src="Palliative Care.png" />
 
-## Description
-
-First Aid
-
-# Custom Loading Apparatus and Digital Micromotion Tracking System
+# First Aid
 
 <img src="First AID.png" />
 
-## Description
-
-American Sign Language
-
-# Custom Loading Apparatus and Digital Micromotion Tracking System
+# American Sign Language
 
 <img src="ASL.png" />
