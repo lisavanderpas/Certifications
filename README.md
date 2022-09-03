@@ -1,21 +1,21 @@
-## Certifications
+# Certifications
 
-# Mental Health First Aid
+## Mental Health First Aid
 
 <img src="Mental Health First Aid.png" />
 
-# Trauma Informed
+## Trauma Informed
 
 <img src="CTRI.png" />
 
-# Palliative care
+## Palliative care
 
 <img src="Palliative Care.png" />
 
-# First Aid & CPR
+## First Aid & CPR
 
 <img src="First AID.png" />
 
-# American Sign Language
+## American Sign Language
 
 <img src="ASL.png" />
